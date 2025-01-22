@@ -4,7 +4,7 @@ RITOPOS (Resloving Informatics & Technology Olimpiad Problems OS) - это LFS-b
 # Стандартная конфигурация
 ## ПО
 Как LFS-based дистрибутив, RITOPOS имеет:
-- Python 2
+- Python 3
 - GCC
 - Vim
 - Sysvinit
