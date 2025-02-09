@@ -1,4 +1,5 @@
-![alt text](https://github.com/d54267ygi/RITOPOS/blob/main/logo.png)
+![# RITOPOS](https://github.com/d54267ygi/RITOPOS/blob/main/logo.png)
+
 RITOPOS (Resloving Informatics & Technology Olimpiad Problems OS) - это LFS-based дистрибутив линукс. Был создан для локального сообщества.
 
 # Стандартная конфигурация
